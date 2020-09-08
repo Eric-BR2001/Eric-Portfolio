@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Eric Souza</title>
+    <link>https://eric-br2001.github.io/Eric-Portfolio/post/</link>
+    <description>Recent content in Projects on Eric Souza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://eric-br2001.github.io/Eric-Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project II: Picture Puzzle Game</title>
+      <link>https://eric-br2001.github.io/Eric-Portfolio/post/project-2/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eric-br2001.github.io/Eric-Portfolio/post/project-2/</guid>
+      <description>This is a simple Picture Puzzle game in C# created during the quarentine with C structural programming language (not using OOP). I used a famous Napoleon picture to do this. You only 8 min to solve. Here are some screenshots of this game:  Gameplay      Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project I: Corona Virus</title>
+      <link>https://eric-br2001.github.io/Eric-Portfolio/post/project-1/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eric-br2001.github.io/Eric-Portfolio/post/project-1/</guid>
+      <description>Create a timeline that shows the Coronavirus Global Spread to alert people that cases are growing. Count the numbers of death and recovered to classified the country that has more cases and recovered. Data is coming from Coronavirus COVID-19 Global Cases by Johns Hopkins CSSE.    Link to GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>
