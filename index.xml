@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eric Dias Souza on Eric Souza</title>
+    <link>https://eric-br2001.github.io/Eric-Portfolio/</link>
+    <description>Recent content in Eric Dias Souza on Eric Souza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://eric-br2001.github.io/Eric-Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter VI: Grayscale image</title>
+      <link>https://eric-br2001.github.io/Eric-Portfolio/post/project-8/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eric-br2001.github.io/Eric-Portfolio/post/project-8/</guid>
+      <description>This project converts the selected image to a grayscale.
+  You can just select a image and convert and save.
+    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Chapter VI: Oracle PL/SQL</title>
+      <link>https://eric-br2001.github.io/Eric-Portfolio/post/project-7/</link>
+      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eric-br2001.github.io/Eric-Portfolio/post/project-7/</guid>
+      <description>On this repository you are gonna find the basic about the PL commands, I use a database that i created but you can use too.
+  This is a review where you can see the commands and example.
+    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Chapter VI: Oracle SQL</title>
+      <link>https://eric-br2001.github.io/Eric-Portfolio/post/project-6/</link>
+      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eric-br2001.github.io/Eric-Portfolio/post/project-6/</guid>
+      <description>On this repository you are gonna find the basic about the SQL commands, I use a database that i created but you can use too.
+  This is a review where you can see the commands and example.
+    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Chapter V: Star Wars Movies Dashboard</title>
+      <link>https://eric-br2001.github.io/Eric-Portfolio/post/project-5/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eric-br2001.github.io/Eric-Portfolio/post/project-5/</guid>
+      <description>This is my project, where I found this API (https://swapi.dev/api/films/) and found it interesting to call the data in power BI.
+  For this project you need to have Fredrik Hedenström&amp;rsquo;s Image Grid installed.
+    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project IV: Corona Virus Brazil Bar Chart Race</title>
+      <link>https://eric-br2001.github.io/Eric-Portfolio/post/project-4/</link>
+      <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eric-br2001.github.io/Eric-Portfolio/post/project-4/</guid>
+      <description>Created a Bar Chart Race that shows the dead and infected numbers caused by Coronavirus in Brazil. With this project we can see that Sao Paulo has more cases all the time, and with that we can make a correlation because Sao Paulo had the first case in Brazil Data is coming from Coronavirus Brasil    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project III: Bootcamp IGTI Data Science</title>
+      <link>https://eric-br2001.github.io/Eric-Portfolio/post/project-3/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eric-br2001.github.io/Eric-Portfolio/post/project-3/</guid>
+      <description>This Data science Bootcamp was provided by IGTI considered by a brazilian journal Exame one of the best one in Brazil.
+  In this bootcamp i was able to saw some news tools like databricks and spark, that helped me a lot in work.
+  As a final challenge, i was cacthing all the datas provided by World Heath Organization(WHO) and I made a linear regression and a SVM that is capable to predict who is gonna have stroke.</description>
+    </item>
+    
+    <item>
+      <title>Project II: Picture Puzzle Game</title>
+      <link>https://eric-br2001.github.io/Eric-Portfolio/post/project-2/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eric-br2001.github.io/Eric-Portfolio/post/project-2/</guid>
+      <description>This is a simple Picture Puzzle game in C# created during the quarentine with C structural programming language (not using OOP). I used a famous Napoleon picture to do this. You only 8 min to solve. Here are some screenshots of this game:  Gameplay      Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project I: Corona Virus</title>
+      <link>https://eric-br2001.github.io/Eric-Portfolio/post/project-1/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eric-br2001.github.io/Eric-Portfolio/post/project-1/</guid>
+      <description>Create a timeline that shows the Coronavirus Global Spread to alert people that cases are growing. Count the numbers of death and recovered to classified the country that has more cases and recovered. Data is coming from Coronavirus COVID-19 Global Cases by Johns Hopkins CSSE.    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://eric-br2001.github.io/Eric-Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eric-br2001.github.io/Eric-Portfolio/contact/</guid>
+      <description>Contact Follow me on these social media platforms.
+   Platform URL     LinkedIn: https://www.linkedin.com/in/eric-dias-souza/   Instagram: https://www.instagram.com/eric_dias_souza/   Medium: https://medium.com/@ericdiassouza   GitHub: https://github.com/Eric-BR2001    </description>
+    </item>
+    
+  </channel>
+</rss>
